@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://www.facebook.com/AexanderSAV" target="_blank">Alexander</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">I'm from Russia, sometimes I try to program 😄</h3>
-![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<h3 align="center">I'm from Russia RU, sometimes I try to program 😄</h3>
+
 <!--
 **AlksSAV/AlksSAV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
