@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://www.facebook.com/AexanderSAV" target="_blank">Alexander</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">I'm from Russia, sometimes I try to program 😄</h3>
+<h3 align="center">Sometimes I try to program 😄</h3>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlksSAV)](https://github.com/AlksSAV/github-readme-stats)
 <!--
